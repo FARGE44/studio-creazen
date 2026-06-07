@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <style>text{font-family:Georgia,serif;fill:#003DA5}</style>
+  <!-- simplified fleur-de-lis -->
+  <path d="M30 55 L30 45 C30 45 26 42 26 38 C26 34 29 31 32 33 C32 29 34 26 30 22 C34 24 36 28 36 32 C38 30 40 28 40 25 C40 28 42 30 44 32 C44 28 46 24 50 22 C46 26 48 29 48 33 C51 31 54 34 54 38 C54 42 50 45 50 45 L50 55 Z" fill="#003DA5" opacity=".9"/>
+  <rect x="27" y="54" width="26" height="3" rx="1" fill="#003DA5" opacity=".9"/>
+  <!-- text -->
+  <text x="65" y="33" font-size="8" letter-spacing="2" font-weight="bold" text-anchor="start" fill="#003DA5">VILLE DE</text>
+  <text x="65" y="50" font-size="11" letter-spacing="1" font-weight="bold" text-anchor="start" fill="#003DA5">MONTRÉAL</text>
+</svg>
